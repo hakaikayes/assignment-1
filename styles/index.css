@@ -3,7 +3,6 @@
 .inter-font-style{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
@@ -11,7 +10,6 @@
 .raleway-font-style{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 
 }
@@ -88,9 +86,9 @@ nav button a{
 }
 /* torkari = banner image  */
 .torkari{
-background-image: url(../Assets/Hero-bg.png);
+background-image: url(/Assets/Hero-bg.png);
 height: 595px;
-width: 1413px;
+width: 1600px;
 }
 
 /* class action title */
